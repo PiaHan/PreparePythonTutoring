@@ -1,0 +1,2 @@
+candy = '딸기맛'
+print(candy)
