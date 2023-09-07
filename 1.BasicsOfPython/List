@@ -1,0 +1,15 @@
+nums = [0, 1, 2]
+for num in nums:
+  print(num)
+  print(nums)
+
+/***
+
+0
+[0, 1, 2]
+1
+[0, 1, 2]
+2
+[0, 1, 2]
+
+***/
