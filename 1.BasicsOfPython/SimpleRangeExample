@@ -1,0 +1,4 @@
+#한입파이썬 p.69
+
+for num in range(5000):
+  print('안녕 거북이', num)
