@@ -1,0 +1,10 @@
+#Python
+#Result [1, 2, 3, 4]
+#한입에 쏙 파이썬 p.64
+
+nums = [1, 3]
+nums[1] = 2
+nums.append(3)
+nums.append(4)
+
+print(nums)
