@@ -1,0 +1,7 @@
+#한입파이썬 p113, 3
+
+switch = '켜짐'
+if switch == '켜짐':
+    print("light is on")
+else:
+    print("Light is off")
