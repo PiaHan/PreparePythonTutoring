@@ -1,0 +1,2 @@
+ge = int(input('나이를입력해주세요: '))
+print(age -3, '살')
