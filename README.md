@@ -29,7 +29,7 @@ p.182~.p.183 코드 설명하게 하기.<br>
 <p>
 1. 비주얼 스튜디오 설치<br> 
 2. python 설치 <br>
-3. pygame 설치 <br>
+3. pygame 설치 -- <b>pip install pygame</b> <br>
 
   
 </p>
